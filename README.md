@@ -1,3 +1,5 @@
+# Download and play
+For only play open releases in right side and download flappy-bird.zip
 # Flappy Bird
 
 This version of flappy bird written with PyGame library. 
