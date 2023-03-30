@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fm_catalog date="2023-03-30 10:22">
+   <shop>
+      <merchant-id>AD4yb1z5eEM4TsBc48</merchant-id>
+      <offers>
+        <offer sku="113863">
+        <name>Умная зубная щетка Xiaomi Oclean X Pro Pink</name>
+        <vendor>Xiaomi</vendor>
+        <pickup-options>
+          <pickup-option id="PP24"/>
+        </pickup-options>
+        <price>29990</price>
+		</offer>
+      </offers>
+   </shop>
+</fm_catalog>
